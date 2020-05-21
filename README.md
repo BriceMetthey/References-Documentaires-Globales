@@ -13,3 +13,8 @@
 ## Tutoriels
 
 * [Le site freecodecamp](https://www.freecodecamp.org/)
+
+## Bash
+
+* [La bible du Bash](https://github.com/dylanaraps/pure-bash-bible)
+
