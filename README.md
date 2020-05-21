@@ -6,7 +6,9 @@
 
 * [Le site dzone.com](https://dzone.com/)
 
-* [Le site infoq](www.infoq.com)
+* [Site Infoq EN](https://www.infoq.com )
+
+* [Site Infoq FR](https://www.infoq.com/fr/)
 
 ## Tutoriels
 
