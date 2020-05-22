@@ -22,3 +22,18 @@
 
 * [La bible du Bash](https://github.com/dylanaraps/pure-bash-bible)
 
+
+## Machine Learning
+
+* https://pytorch.org
+* https://keras.io
+* https://www.tensorflow.org
+* https://developers.google.com/machine-learning/glossary/
+* http://scikit-learn.org/stable/index.html
+* https://deeplearning4j.org
+* https://spark.apache.org/mllib/
+* https://medium.com/coinmonks/implementing-an-artificial-neural-network-in-pure-java-no-external-dependencies-975749a38114[Implementing Neural-network in pure Java]
+* https://towardsdatascience.com/deploying-keras-deep-learning-models-with-java-62d80464f34a[Deploying-keras-deep-learning-models-with-java]
+* https://hackernoon.com/best-machine-learning-libraries-for-java-development-4eccb88e1348[Best-machine-learning-libraries-for-java]
+* https://www.cs.waikato.ac.nz/ml/weka/index.html[Weka]
+* https://medium.com/coinmonks/implementing-an-artificial-neural-network-in-pure-java-no-external-dependencies-975749a38114[Implementing Artificial Neural Network in Pure Java]
