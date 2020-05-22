@@ -10,6 +10,10 @@
 
 * [Site Infoq FR](https://www.infoq.com/fr/)
 
+* [Devdocs](http://devdocs.io)
+
+* [Mozilla Web docs](https://developer.mozilla.org)
+
 ## Tutoriels
 
 * [Le site freecodecamp](https://www.freecodecamp.org/)
