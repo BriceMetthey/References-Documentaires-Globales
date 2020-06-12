@@ -2,6 +2,8 @@
 
 ## Sites
 
+* [learnxinyminutes](https://learnxinyminutes.com/)
+
 * [Les refcardz de dzone.com](https://dzone.com/refcardz)
 
 * [Le site dzone.com](https://dzone.com/)
@@ -13,6 +15,8 @@
 * [Devdocs](http://devdocs.io)
 
 * [Mozilla Web docs](https://developer.mozilla.org)
+
+* [ledevweb.fr](https://www.ledevweb.fr)
 
 ## Tutoriels
 
