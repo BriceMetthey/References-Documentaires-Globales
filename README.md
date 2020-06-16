@@ -22,6 +22,10 @@
 
 * [Le site freecodecamp](https://www.freecodecamp.org/)
 
+## API REST en ligne pour prototypage
+
+* [Fake Online REST API for Testing and Prototyping](https://jsonplaceholder.typicode.com/)
+
 ## Bash
 
 * [La bible du Bash](https://github.com/dylanaraps/pure-bash-bible)
